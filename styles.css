@@ -14,7 +14,7 @@
 .gambar{
     margin: 20px 0px 20px 130px;
     flex: 1;
-    /* overflow: hidden; */
+    overflow: hidden;
 }
 .col{
     flex: 1.25;
@@ -22,6 +22,7 @@
 .header{
     margin-bottom: 30px;
     margin-right: 30px;
+    display: flex;
 }
 .raw{
     background-color: white;
